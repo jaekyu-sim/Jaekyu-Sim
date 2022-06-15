@@ -1,6 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaekyu%20Sim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-<p align='center'> GitHub Profile </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaekyu%20Sim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Want%20to%20be%20Fullstack%20Developer&descAlignY=60&descAlign=62)
 
+<p align='center'> 풀스택 개발자가 되고자하는 GitHub Profile </p>
+
+<p align='center'>
+  <a href="https://blog.naver.com/worb1605">
+    <img src="https://img.shields.io/badge/Tech%20Blog%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jaekyu-Sim">
+    <img src="https://img.shields.io/badge/Github%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
 
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> 
