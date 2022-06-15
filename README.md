@@ -4,10 +4,10 @@
 
 <p align='center'>
   <a href="https://blog.naver.com/worb1605">
-    <img src="https://img.shields.io/badge/Tech%20Blog%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog%20-%23F7DF1E.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
   </a>
   <a href="https://github.com/Jaekyu-Sim">
-    <img src="https://img.shields.io/badge/Github%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github%20-%234FC08D.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </p>
 
