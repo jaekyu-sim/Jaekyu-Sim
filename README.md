@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle SQL&logoColor=white"/>
  </p>
  
  
