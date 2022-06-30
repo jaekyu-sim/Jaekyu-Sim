@@ -9,6 +9,9 @@
   <a href="https://github.com/Jaekyu-Sim">
     <img src="https://img.shields.io/badge/Github%20-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
+  <a href="http://simjaekyu.site/">
+    <img src="https://img.shields.io/badge/Portfolio Page%20-%23000000.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  </a>
 </p>
 
 <p align='center'>:muscle: <b> <span style="font-size:150%">Tech Stack </span> </b> :muscle:</p>
