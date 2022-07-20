@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/badge/Github%20-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
   <a href="http://simjaekyu.site/">
-    <img src="https://img.shields.io/badge/Portfolio Page%20-%23562100.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio Page(made with React&Javascript)%20-%23562100.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-typescript2-vlc7s6vvgq-uw.a.run.app/">
+    <img src="https://img.shields.io/badge/Portfolio Page(made with React&Typescript)%20-%23562100.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   </a>
 </p>
 
