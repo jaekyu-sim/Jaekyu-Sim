@@ -29,16 +29,24 @@
 
 <p align='center'>:muscle: <b> <span style="font-size:150%">Tech Stack </span> </b> :muscle:</p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NextJS-3766AB?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-3766AB?style=flat-square&logo=Tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle SQL-3766AB?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white">
+  <p align='center'>
+    <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NextJS-3766AB?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white">
+  </p>
+  <br/>
+  <p algin='center'>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tensorflow-3766AB?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  </p>
+  <p align='center'>
+    <img src="https://img.shields.io/badge/Oracle SQL-3766AB?style=flat-square&logo=Oracle&logoColor=white"/>
+  </p>
+  
  </p>
  
  
