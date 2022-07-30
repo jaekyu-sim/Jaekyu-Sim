@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaekyu%20Sim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Want%20to%20be%20Fullstack%20Developer&descAlignY=60&descAlign=62)
 
-<p align='center'> <b>풀스택 개발자가 되고자하는 GitHub Profile</b> </p>
+<p align='center'> <b>Web 풀스택 개발자가 되고자하는 GitHub Profile</b> </p>
 
 <p align='center'>
   <a href="https://blog.naver.com/worb1605">
