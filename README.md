@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-3766AB?style=flat-square&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle SQL-3766AB?style=flat-square&logo=Oracle&logoColor=white"/>
  </p>
