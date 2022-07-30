@@ -22,7 +22,7 @@
 <p align='center'>:muscle: <b> <span style="font-size:150%">Tech Stack </span> </b> :muscle:</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NextJS-3766AB?style=flat-square&logo=Next&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextJS-3766AB?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-3766AB?style=flat-square&logo=Tensorflow&logoColor=white"/>
