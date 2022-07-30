@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white">
   </p>
   <br/>
-  <p algin='center'>
+  <p align='center'>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tensorflow-3766AB?style=flat-square&logo=Tensorflow&logoColor=white"/>
   </p>
