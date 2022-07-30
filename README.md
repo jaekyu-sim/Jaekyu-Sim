@@ -11,7 +11,7 @@
   </a>
   <br/>
 </p>
-<p>
+<p align='center'>
   <p align='center'> <b>Web NextJS & TypeScript 기반 Profile Page</b> </p>
   <a href="http://simjaekyu.site/">
     <img src="https://img.shields.io/badge/Portfolio Page(made with React&Javascript)%20-%23562100.svg?&style=for-the-badge&logo=React&logoColor=white"/>
