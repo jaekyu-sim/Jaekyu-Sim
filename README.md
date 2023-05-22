@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/NextJS-3766AB?style=flat-square&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-3766AB?style=flat-square&logo=Express&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
